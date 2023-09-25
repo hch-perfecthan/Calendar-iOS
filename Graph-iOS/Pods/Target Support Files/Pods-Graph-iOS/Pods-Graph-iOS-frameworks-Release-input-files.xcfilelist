@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Graph-iOS/Pods-Graph-iOS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Charts/Charts.framework
+${BUILT_PRODUCTS_DIR}/PieCharts/PieCharts.framework
